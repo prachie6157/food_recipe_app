@@ -6,9 +6,9 @@ This website uses the Recipe Search API from Edemam.com. This API has the data o
 
 (React.js, JavaScript, HTML, CSS/Bootstrap, deployed with Google Firebase)
 
+![recipe app reactjs api project](https://pin.it/6c92vtu)
 
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
