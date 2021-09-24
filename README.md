@@ -1,3 +1,13 @@
+#React API Project Using Hooks, Axios and Firebase
+  https://food-recipe-df747.web.app/
+
+The purpose of this project is to practice React.js and API fetching.
+This website uses the Recipe Search API from Edemam.com. This API has the data of tens of thousands of foods, simply search any type of dish you like and it will find you its ingredients.
+
+(React.js, JavaScript, HTML, CSS/Bootstrap, deployed with Google Firebase)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
