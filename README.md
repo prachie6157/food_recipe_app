@@ -1,4 +1,4 @@
-#React API Project Using Hooks, Axios and Firebase
+# React API Project Using Hooks, Axios and Firebase
   https://food-recipe-df747.web.app/
 
 The purpose of this project is to practice React.js and API fetching.
