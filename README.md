@@ -6,7 +6,7 @@ This website uses the Recipe Search API from Edemam.com. This API has the data o
 
 (React.js, JavaScript, HTML, CSS/Bootstrap, deployed with Google Firebase)
 
-![recipe app reactjs api project](https://pin.it/6c92vtu)
+![recipe app reactjs api project](https://pin.it/3V6FoJ4)
 
 
 
